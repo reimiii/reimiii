@@ -4,6 +4,6 @@
 ![PHP](https://img.shields.io/badge/PHP-Beginner-lightblue)
 ![React](https://img.shields.io/badge/React-Beginner-blue)
 
-Web Developer located in Indonesia,
+WebDev located in Indonesia,
 
 - 🌱 I’m currently learning **Laravel**
