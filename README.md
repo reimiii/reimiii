@@ -1,6 +1,5 @@
 # Hello, I'm Reimi
 
-![Laravel](https://img.shields.io/badge/Laravel-Beginner-red)
-![PHP](https://img.shields.io/badge/PHP-Beginner-lightblue)
+<img src="https://media.tenor.com/5tBB_aNcuRoAAAAC/shamiko-machikado-mazoku.gif" width="100%">
 
 - 🌱 I’m currently learning **Laravel**
