@@ -4,4 +4,4 @@
   <img src="https://media.tenor.com/5tBB_aNcuRoAAAAC/shamiko-machikado-mazoku.gif" width="65%">
 </p>
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Java**
