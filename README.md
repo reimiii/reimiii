@@ -1,7 +1,1 @@
-# Hello, I'm HILMI AM
-
-<p align="center">
-  <img src="https://media.tenor.com/5tBB_aNcuRoAAAAC/shamiko-machikado-mazoku.gif" width="65%">
-</p>
-
-- 🌱 I’m currently learning **Java** or **Python**
+Right now, I'm trying out both **Java** and **Python**. I've given PHP and Laravel a go in the past, but it didn't seem to stick. I'm not feeling too into it, maybe because my basics in PHP were a little weak. But hey, that's all part of the journey! I'm excited to keep trying out different languages and finding the one that really clicks for me.
