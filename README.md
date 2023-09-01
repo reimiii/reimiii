@@ -2,4 +2,4 @@ I use Linux, by the way. I cannot use Windows because it makes my laptop unusabl
 
 == <br>
 project idea: tracking my activity base on cli/console <br>
-progress: 0/100
+progress: 0.5/100
