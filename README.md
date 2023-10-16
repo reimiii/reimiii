@@ -1,4 +1,4 @@
-I use Linux, by the way. I cannot use Windows because it makes my laptop unusable.
+I use Arch Linux, BTW. I cannot use Windows because it makes my laptop unusable.
 
 == <br>
 project idea: tracking my activity base on cli/console <br>
