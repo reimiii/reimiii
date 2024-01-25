@@ -1,4 +1,1 @@
-Hii :3
-
-
-for now. Java, Docker
+for now. java and docker is my favorite thing
