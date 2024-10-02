@@ -1,6 +1,5 @@
 
-Hey, I’m HILMI. I’ve been having fun with Java and Docker lately.    
-Sometimes I mess around with Bash scripts to make coding smoother.    
+Hey, I’m HILMI. I’ve been having fun with Java and Docker lately. Sometimes I mess around with Bash scripts to make coding smoother.    
 I want to try Kotlin too...    
 Most of my repos are just study notes to keep things from getting lost, so just ignore them.    
 ```java
