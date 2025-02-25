@@ -1,9 +1,9 @@
 > [!IMPORTANT]  
-> Hey, I’m HILMI. Lately, I’ve been diving into NestJS and TypeScript at work, always running things with Docker.
+> Hey, I’m HILMI. At work, I’m all about NestJS and TypeScript, running everything through Docker.
 > 
-> I still enjoy messing around with Bash scripts for fun when I get the chance.
+> In my spare time, I like playing around with Bash scripts for fun.
 > 
-> Most of my repos are just study notes to keep things organized, so feel free to ignore them.    
+> My repos are mostly notes to keep track of what I’m learning—feel free to pass them by if they don’t catch your eye.   
 ```ts
 const languages: string[] = ["Java", "JavaScript", "TypeScript", "Bash"];
 
