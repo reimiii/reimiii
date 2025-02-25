@@ -1,15 +1,18 @@
 > [!IMPORTANT]  
-> Hey, I’m HILMI. I’ve been having fun with Java and Docker lately.    
-> Sometimes I mess around with Bash scripts, just for fun.      
-> Most of my repos are just study notes to keep things from getting lost, so just ignore them.    
-```java
-List<String> languages = List.of("Java", "JavaScript", "TypeScript", "Bash");
-Map<String, List<String>> tools = Map.of(
-    "Backend", List.of("Spring Boot", "Docker", "Node.js"),
-    "Databases", List.of("PostgreSQL", "MySQL", "Redis (basic)"),
-    "Version Control", List.of("Git", "GitHub", "GitLab"),
-    "Operating Systems", List.of("Linux (Arch-based)", "Windows")
-);
+> Hey, I’m HILMI. Lately, I’ve been diving into NestJS and TypeScript at work, always running things with Docker.
+> 
+> I still enjoy messing around with Bash scripts for fun when I get the chance.
+> 
+> Most of my repos are just study notes to keep things organized, so feel free to ignore them.    
+```ts
+const languages: string[] = ["Java", "JavaScript", "TypeScript", "Bash"];
+
+const tools: Record<string, string[]> = {
+  "Backend": ["NestJS", "Spring Boot", "Docker", "Node.js"],
+  "Databases": ["PostgreSQL", "MySQL", "Redis (basic)"],
+  "Version Control": ["Git", "GitHub", "GitLab"],
+  "Operating Systems": ["Linux (Arch-based)", "Windows"],
+};
 ```
 ---
 ![](https://komarev.com/ghpvc/?username=reimiii&style=for-the-badge&label=VIEWS+COUNT)
