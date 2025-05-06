@@ -1,5 +1,5 @@
 > [!IMPORTANT]  
-> Hey, I’m HILMI. At work, I’m all about NestJS and TypeScript, running everything through Docker.
+> Hey, I’m HILMI [MEE]. I’m all about NestJS and TypeScript, running everything through Docker.
 > 
 > In my spare time, I like playing around with Bash scripts for fun.
 > 
