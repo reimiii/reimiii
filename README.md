@@ -1,17 +1,36 @@
 > [!IMPORTANT]  
-> Hey, I’m HILMI [MEE]. I’m all about NestJS and TypeScript, running everything through Docker.
+> Yo. I’m HILMI — backend builder. Occasionally seen frontending or devopping under mysterious circumstances. 
 > 
-> In my spare time, I like playing around with Bash scripts for fun.
+> I aim for clean code, but sometimes chaos wins.  
 > 
-> My repos are mostly notes to keep track of what I’m learning—feel free to pass them by if they don’t catch your eye.   
+> When I’m not coding (for work), I’m usually learning something weird or spinning up yet another side project I may or may not finish.  
+> 
+> Some repos are actual projects. Others are just digital scribbles while I fight my way through the backend wilderness.  
+> 
+> Currently open to work (and yes, I read DMs).
+
 ```ts
-const languages: string[] = ["Java", "JavaScript", "TypeScript", "Bash"];
+const languages: string[] = [
+  "Java",
+  "JavaScript",
+  "TypeScript",
+  "Bash (for chaos)",
+  "PHP (currently learning, send help)"
+];
 
 const tools: Record<string, string[]> = {
-  "Backend": ["NestJS", "Spring Boot", "Docker", "Node.js"],
-  "Databases": ["PostgreSQL", "MySQL", "Redis (basic)"],
+  "Backend": ["NestJS", "Spring Boot", "Node.js"],
+  "Frontend": ["ReactJS (when I have to)", "Vite", "TailwindCSS"],
+  "Databases": [
+    "PostgreSQL",
+    "MySQL",
+    "Redis (it works until it doesn’t)",
+    "MongoDB (JS/TS only, don’t judge)"
+  ],
+  "Messaging & Queues": ["Socket.io (no one’s listening, but I emit anyway)", "SQS (once, never again)"],
   "Version Control": ["Git", "GitHub", "GitLab"],
-  "Operating Systems": ["Linux (Arch-based)", "Windows"],
+  "DevOps & Cloud": ["AWS S3", "GitHub Actions", "Portainer (yes, UI)"],
+  "OS": ["Linux (btw)", "Windows (for regrets)"],
 };
 ```
 ---
