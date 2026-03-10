@@ -1,13 +1,12 @@
-> [!IMPORTANT]  
-> Yo. I’m HILMI — backend builder. Occasionally seen frontending or devopping under mysterious circumstances. 
-> 
-> I aim for clean code, but sometimes chaos wins.  
-> 
-> When I’m not coding (for work), I’m usually learning something weird or spinning up yet another side project I may or may not finish.  
-> 
-> Some repos are actual projects. Others are just digital scribbles while I fight my way through the backend wilderness.  
-> 
-> Currently open to work (and yes, I read DMs).
+> [!IMPORTANT]
+> Yo, I’m HILMI — mostly backend. Sometimes I touch frontend or random dev stuff.
+>
+> I try to write clean code, but chaos happens.
+>
+> Off work, I either learn something weird or start a side project I might not finish.
+>
+> Some repos are real projects, others just doodles in the backend jungle.
+
 
 ```ts
 const languages: string[] = [
@@ -19,16 +18,16 @@ const languages: string[] = [
 ];
 
 const tools: Record<string, string[]> = {
-  "Backend": ["NestJS", "Spring Boot", "Node.js"],
-  "Frontend": ["ReactJS (when I have to)", "Vite", "TailwindCSS"],
+  "Backend": ["NestJS", "Spring Boot", "Node.js", "Laravel"],
+  "Frontend": ["ReactJS (when I have to)"],
   "Databases": [
     "PostgreSQL",
     "MySQL",
     "Redis (it works until it doesn’t)",
     "MongoDB (JS/TS only, don’t judge)"
   ],
-  "Messaging & Queues": ["Socket.io (no one’s listening, but I emit anyway)", "SQS (once, never again)"],
-  "Version Control": ["Git", "GitHub", "GitLab"],
+  "Messaging & Queues": ["Socket.io (no one’s listening, but I emit anyway)"],
+  "Version Control": ["Git"],
   "DevOps & Cloud": ["AWS S3", "GitHub Actions", "Portainer (yes, UI)"],
   "OS": ["Linux (btw)", "Windows (for regrets)"],
 };
