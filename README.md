@@ -13,23 +13,23 @@ const languages: string[] = [
   "Java",
   "JavaScript",
   "TypeScript",
-  "Bash (for chaos)",
-  "PHP (currently learning, send help)"
+  "Bash",
+  "PHP"
 ];
 
 const tools: Record<string, string[]> = {
   "Backend": ["NestJS", "Spring Boot", "Node.js", "Laravel"],
-  "Frontend": ["ReactJS (when I have to)"],
+  "Frontend": ["ReactJS (Basic)"],
   "Databases": [
     "PostgreSQL",
     "MySQL",
-    "Redis (it works until it doesn’t)",
-    "MongoDB (JS/TS only, don’t judge)"
+    "Redis",
+    "MongoDB (JS/TS only)"
   ],
-  "Messaging & Queues": ["Socket.io (no one’s listening, but I emit anyway)"],
+  "Messaging & Queues": ["Socket.io"],
   "Version Control": ["Git"],
   "DevOps & Cloud": ["AWS S3", "GitHub Actions", "Portainer (yes, UI)"],
-  "OS": ["Linux (btw)", "Windows (for regrets)"],
+  "OS": ["Linux"],
 };
 ```
 ---
