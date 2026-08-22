@@ -1,14 +1,25 @@
 > [!IMPORTANT]
-> Yo, I’m HILMI — mostly backend. Sometimes I touch frontend or random dev stuff.
+> Greetings. I'm Ze Noir (HILMI), a backend engineer by trade.
 >
-> I try to write clean code, but chaos happens.
+> I hold my code to a standard of clarity and intent, though entropy,
+> as always, negotiates its own terms.
 >
-> Off work, I either learn something weird or start a side project I might not finish.
+> The frontend and I maintain what can best be described as a polite
+> distance: we acknowledge each other, but rarely collaborate.
 >
-> Some repos are real projects, others just doodles in the backend jungle.
-
+> Beyond working hours, I explore unconventional technologies or nurture
+> side projects whose completion remains gracefully uncertain.
+>
+> A few repositories reflect serious work; the others
+> are humble practice, preserved without apology.
 
 ```ts
+// The stack that pays the bills (currently)
+const currentStack: string[] = [
+  "PHP",
+  "Laravel"
+];
+
 const languages: string[] = [
   "Java",
   "JavaScript",
@@ -18,7 +29,7 @@ const languages: string[] = [
 ];
 
 const tools: Record<string, string[]> = {
-  "Backend": ["NestJS", "Spring Boot", "Node.js", "Laravel"],
+  "Backend": ["Laravel", "NestJS", "Spring Boot", "Node.js"],
   "Frontend": ["ReactJS (Basic)"],
   "Databases": [
     "PostgreSQL",
@@ -29,8 +40,11 @@ const tools: Record<string, string[]> = {
   "Messaging & Queues": ["Socket.io"],
   "Version Control": ["Git"],
   "DevOps & Cloud": ["AWS S3", "GitHub Actions", "Portainer (yes, UI)"],
-  "OS": ["Linux"],
+  "Distributions": ["Arch Linux (Omarchy)", "Ubuntu Server"]
 };
+
+// Personal preference beyond office hours
+const preferredRuntime: string = "Bun";
 ```
 ---
 ![](https://komarev.com/ghpvc/?username=reimiii&style=for-the-badge&label=VIEWS+COUNT)
