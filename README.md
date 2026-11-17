@@ -1,13 +1,13 @@
-> [!IMPORTANT]
+> [!NOTE]
 > Greetings. I'm Ze Noir (HILMI), a backend engineer by trade.
 >
 > I hold my code to a standard of clarity and intent, though entropy,
-> as always, negotiates its own terms.
+> as always, sets its own terms.
 >
 > The frontend and I maintain what can best be described as a polite
 > distance: we acknowledge each other, but rarely collaborate.
 >
-> Beyond working hours, I explore unconventional technologies or nurture
+> Beyond working hours, I explore technologies outside my daily stack or nurture
 > side projects whose completion remains gracefully uncertain.
 >
 > A few repositories reflect serious work; the others
@@ -29,18 +29,19 @@ const languages: string[] = [
 ];
 
 const tools: Record<string, string[]> = {
-  "Backend": ["Laravel", "NestJS", "Spring Boot", "Node.js"],
-  "Frontend": ["ReactJS (Basic)"],
+  "Backend": ["Laravel", "NestJS", "Spring Boot"],
+  "Runtimes": ["Node.js", "Bun"],
+  "Frontend": ["React (Basic)"],
   "Databases": [
     "PostgreSQL",
     "MySQL",
     "Redis",
     "MongoDB (JS/TS only)"
   ],
-  "Messaging & Queues": ["Socket.io"],
+  "Realtime": ["Socket.io"],
   "Version Control": ["Git"],
-  "DevOps & Cloud": ["AWS S3", "GitHub Actions", "Portainer (yes, UI)"],
-  "Distributions": ["Arch Linux (Omarchy)", "Ubuntu Server"]
+  "DevOps & Cloud (Basic)": ["Docker", "Portainer (yes, UI)", "GitHub Actions", "AWS S3"],
+  "Distributions": ["Arch Linux (Omarchy)", "Ubunt
 };
 
 // Personal preference beyond office hours
