@@ -41,7 +41,7 @@ const tools: Record<string, string[]> = {
   "Realtime": ["Socket.io"],
   "Version Control": ["Git"],
   "DevOps & Cloud (Basic)": ["Docker", "Portainer (yes, UI)", "GitHub Actions", "AWS S3"],
-  "Distributions": ["Arch Linux (Omarchy)", "Ubunt
+  "Distributions": ["Arch Linux", "Ubuntu Server"]
 };
 
 // Personal preference beyond office hours
